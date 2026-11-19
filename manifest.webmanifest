@@ -1,0 +1,11 @@
+{
+  "name": "Журнал поездок и топливный отчёт",
+  "short_name": "Журнал поездок",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f3f7",
+  "theme_color": "#e30611",
+  "lang": "ru",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
